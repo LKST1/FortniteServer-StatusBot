@@ -1,7 +1,7 @@
 # how to Use the tool :
  
 - you should edit { your_tokens.json } With your Tokens to post status on it
-- Need Twitter Developer account (https://developer.twitter.com/en/portal/dashboard)
+- Need Twitter [Developer account](https://developer.twitter.com/en/portal/dashboard)
 - Note : the Bot won't work without twitter tokens 
 
 # Post on Facebook [facebook page]
