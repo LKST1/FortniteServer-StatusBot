@@ -14,10 +14,10 @@ _______________________________________________________________
 # if you have any Questions or Problems :
 
 - twitter :
-- @Leaks_Station
+@Leaks_Station
 
 - discord :
-- Leaks station owner#3384
+Leaks station owner#3384
 
 --------------------------
 Powered By : https://nitestats.com/api-docs
