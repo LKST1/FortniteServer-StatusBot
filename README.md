@@ -1,7 +1,7 @@
 # how to Use the tool :
  
->>> you should edit { your_tokens.json } With your Tokens
->>> you should have Twitter Developer account (https://developer.twitter.com/en/portal/dashboard)
+- you should edit { your_tokens.json } With your Tokens
+- Need Twitter Developer account (https://developer.twitter.com/en/portal/dashboard)
 
 Note : the bot won't work without twitter tokens 
 
@@ -13,13 +13,11 @@ _______________________________________________________________
 
 # if you have any Questions or Problems :
 
-- {Leaks Station}
-
 twitter :
->> @Leaks_Station
+- @Leaks_Station
 
 discord :
->> Leaks station owner#3384
+- Leaks station owner#3384
 
 --------------------------
 Powered By : Nitestats API
