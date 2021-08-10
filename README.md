@@ -1,2 +1,7 @@
-# FortniteServer-StatusBot
-this is a fortnite server status bot support ( Twitter - Facebook) so you can get auto post on both of them or only twitter...
+# FortniteServer-bot
+Fortnite Server status bot 
+
+# supported platforms : 
+- Twitter 
+- Facebook
+
