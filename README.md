@@ -7,7 +7,7 @@ Note : the bot won't work without twitter tokens
 
 # Post on Facebook [facebook page]
  just add your Page Token in { your_tokens.json }
- [Note] : just leave the Facebook token Empty If you don't want to use facebook 
+ Note : just leave the Facebook token Empty If you don't want to use facebook 
 
 _______________________________________________________________
 
