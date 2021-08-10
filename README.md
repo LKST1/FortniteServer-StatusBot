@@ -13,10 +13,10 @@ _______________________________________________________________
 
 # if you have any Questions or Problems :
 
-twitter :
+  twitter :
 - @Leaks_Station
 
-discord :
+  discord :
 - Leaks station owner#3384
 
 --------------------------
