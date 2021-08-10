@@ -13,12 +13,12 @@ _______________________________________________________________
 
 # if you have any Questions or Problems :
 
-  twitter :
+- twitter :
 - @Leaks_Station
 
-  discord :
+- discord :
 - Leaks station owner#3384
 
 --------------------------
-Powered By : Nitestats API
+Powered By : https://nitestats.com/api-docs
 
