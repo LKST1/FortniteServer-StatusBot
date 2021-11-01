@@ -1,12 +1,3 @@
-# Made by(Credits) : Leaks station 
-# thanks to Tector (@Tevtor) for fixing some issues
-# if you have any suggestion contect me :
-# Twitter : @Leaks_Station
-# Discord :Leaks station owner#3384
-# HAVE GOOD DAY & STAY SAFE  : ) 
-
-
-
 import requests
 import json
 from tweepy.api import API
