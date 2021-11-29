@@ -13,10 +13,10 @@ _______________________________________________________________
 # For Help :
 
 - twitter :
-@Leaks_Station
+@Leaks_Station[]
 
 - discord :
-Leaks station owner#3384
+Leaks station#3384
 
 --------------------------
 # Exmaple :
